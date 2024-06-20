@@ -34,6 +34,6 @@ Install the required libraries using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 
-###Author
+## Author
 Sarvesh Mane
 Feel free to explore, modify, and experiment with the code to enhance your understanding of machine learning for fraud detection.
