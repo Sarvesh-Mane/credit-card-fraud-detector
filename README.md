@@ -1,4 +1,4 @@
-#Credit Card Fraud Detection Project
+##Credit Card Fraud Detection Project
 This repository contains code for a credit card fraud detection project using machine learning techniques.
 
 Dataset
